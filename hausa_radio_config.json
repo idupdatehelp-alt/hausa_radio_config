@@ -359,7 +359,7 @@
       "frequencyOrLocation": "Sokoto, Nigeria",
       "categoryId": "LOCAL_HAUSA",
       "localIconResName": "ic_rima_radio",
-      "remoteIconUrl": null,
+      "remoteIconUrl": https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp,
       "isFeatured": false,
       "streamUrl": "https://stream.zeno.fm/z9u4m5s698quv",
       "subStreams": []
@@ -370,7 +370,18 @@
       "frequencyOrLocation": "Minna, Niger State",
       "categoryId": "LOCAL_HAUSA",
       "localIconResName": "ic_radio_niger",
-      "remoteIconUrl": null,
+      "remoteIconUrl": https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp,
+      "isFeatured": false,
+      "streamUrl": "https://stream.zeno.fm/x1u4m5s698quv",
+      "subStreams": []
+    },
+    {
+      "id": "radio_ger_minna",
+      "name": "Ibrahim fm",
+      "frequencyOrLocation": "Minna, Niger State",
+      "categoryId": "LOCAL_HAUSA",
+      "localIconResName": "ic_radio_niger",
+      "remoteIconUrl": "https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp",
       "isFeatured": false,
       "streamUrl": "https://stream.zeno.fm/x1u4m5s698quv",
       "subStreams": []
