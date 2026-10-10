@@ -135,7 +135,40 @@
     },
     {
       "id": "bbc_world",
-      "name": "BBC World Service",
+      "name": "BBC World",
+      "frequencyOrLocation": "London, UK",
+      "categoryId": "INTERNATIONAL_ENGLISH",
+      "localIconResName": "ic_bbc_world",
+      "remoteIconUrl": null,
+      "isFeatured": false,
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "subStreams": []
+    },
+    {
+      "id": "DW_world",
+      "name": "DW World",
+      "frequencyOrLocation": "London, UK",
+      "categoryId": "INTERNATIONAL_ENGLISH",
+      "localIconResName": "ic_bbc_world",
+      "remoteIconUrl": null,
+      "isFeatured": false,
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "subStreams": []
+    },
+    {
+      "id": "trt_world",
+      "name": "TRT World",
+      "frequencyOrLocation": "London, UK",
+      "categoryId": "INTERNATIONAL_ENGLISH",
+      "localIconResName": "ic_bbc_world",
+      "remoteIconUrl": null,
+      "isFeatured": false,
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "subStreams": []
+    },
+    {
+      "id": "al_world",
+      "name": "Al Jazeera",
       "frequencyOrLocation": "London, UK",
       "categoryId": "INTERNATIONAL_ENGLISH",
       "localIconResName": "ic_bbc_world",
