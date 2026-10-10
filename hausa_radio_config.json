@@ -15,7 +15,7 @@
       "frequencyOrLocation": "London / Global",
       "categoryId": "INTERNATIONAL_HAUSA",
       "localIconResName": "ic_bbc_hausa",
-      "remoteIconUrl": null,
+      "remoteIconUrl": "https://github.com/idupdatehelp-alt/hausa_radio_config/blob/main/bbch.webp",
       "isFeatured": true,
       "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
       "subStreams": [
@@ -69,7 +69,7 @@
       "frequencyOrLocation": "Bonn / Germany",
       "categoryId": "INTERNATIONAL_HAUSA",
       "localIconResName": "ic_dw_hausa",
-      "remoteIconUrl": null,
+      "remoteIconUrl": https://github.com/idupdatehelp-alt/hausa_radio_config/blob/main/bbch.webp,
       "isFeatured": true,
       "streamUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123123/master.m3u8",
       "subStreams": [
