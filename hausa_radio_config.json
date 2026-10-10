@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "lastUpdated": "2025-02-23",
+  "admob": {
+    "adsEnabled": true,
+    "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+    "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+    "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+    "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921"
+  },
+  "stations": [
+    {
+      "id": "bbc_hausa",
+      "name": "BBC Hausa",
+      "frequencyOrLocation": "London / Global",
+      "categoryId": "INTERNATIONAL_HAUSA",
+      "localIconResName": "ic_bbc_hausa",
+      "remoteIconUrl": "https://raw.githubusercontent.com/hausaliveradio/config/main/icons/bbc_hausa.png",
+      "isFeatured": true,
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk//bbc_hausa_radio",
+      "subStreams": [
+        {
+          "id": "bbc_dw_live",
+          "title": "DW Live",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk//bbc_hausa_radio",
+          "description": "Live continuous broadcast stream",
+          "scheduleTime": "24/7 Live"
+        },
+        {
+          "id": "bbc_safe",
+          "title": "Shirin Safe",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+          "description": "Morning news bulletin and features",
+          "scheduleTime": "06:00 AM WAT"
+        },
+        {
+          "id": "bbc_hantsi",
+          "title": "Shirin Hantsi",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+          "description": "Mid-morning analysis and sports",
+          "scheduleTime": "10:00 AM WAT"
+        },
+        {
+          "id": "bbc_rana",
+          "title": "Shirin Rana",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+          "description": "Afternoon comprehensive news",
+          "scheduleTime": "03:00 PM WAT"
+        },
+        {
+          "id": "bbc_dare",
+          "title": "Shirin Dare",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+          "description": "Evening program and global roundup",
+          "scheduleTime": "08:30 PM WAT"
+        },
+        {
+          "id": "bbc_raayi_riga",
+          "title": "Ra'ayi Riga",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+          "description": "Interactive discussion and audience feedback",
+          "scheduleTime": "Weekly Special"
+        }
+      ]
+    },
+    {
+      "id": "dw_hausa",
+      "name": "DW Hausa",
+      "frequencyOrLocation": "Bonn / Germany",
+      "categoryId": "INTERNATIONAL_HAUSA",
+      "localIconResName": "ic_dw_hausa",
+      "remoteIconUrl": "https://raw.githubusercontent.com/hausaliveradio/config/main/icons/dw_hausa.png",
+      "isFeatured": true,
+      "streamUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123123/master.m3u8",
+      "subStreams": [
+        {
+          "id": "dw_live_main",
+          "title": "DW Live",
+          "streamUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123123/master.m3u8",
+          "description": "Live continuous DW Hausa stream",
+          "scheduleTime": "24/7 Live"
+        },
+        {
+          "id": "dw_safe",
+          "title": "Shirin Safe",
+          "streamUrl": "https://stream.live.vc.bbcmedia.co.uk//bbc_hausa_radio",
+          "description": "Morning German & African news roundup",
+          "scheduleTime": "06:30 AM WAT"
+        },
+        {
+          "id": "dw_rana",
+          "title": "Shirin Rana",
+          "streamUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123123/master.m3u8",
+          "description": "Midday news report and interviews",
+          "scheduleTime": "01:00 PM WAT"
+        },
+        {
+          "id": "dw_dare",
+          "title": "Shirin Dare",
+          "streamUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123123/master.m3u8",
+          "description": "Nightly news and culture magazine",
+          "scheduleTime": "09:00 PM WAT"
+        }
+      ]
+    },
+    {
+      "id": "voa_hausa",
+      "name": "VOA Hausa",
+      "frequencyOrLocation": "Washington D.C. / USA",
+      "categoryId": "INTERNATIONAL_HAUSA",
+      "localIconResName": "ic_voa_hausa",
+      "remoteIconUrl": "https://raw.githubusercontent.com/hausaliveradio/config/main/icons/voa_hausa.png",
+      "isFeatured": true,
+      "streamUrl": "https://voa-21.akacast.akamaistream.net/7/433/322013/v1/ibb.akacast.akamaistream.net/voa-21",
+      "subStreams": [
+        {
+          "id": "voa_dw_live",
+          "title": "DW Live",
+          "streamUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123123/master.m3u8",
+          "description": "VOA / DW International Partner Stream",
+          "scheduleTime": "24/7 Live"
+        }
+      ]
+    },
+    {
+      "id": "rfi_hausa",
+      "name": "RFI Hausa",
+      "frequencyOrLocation": "Paris / France",
+      "categoryId": "INTERNATIONAL_HAUSA",
+      "localIconResName": "ic_rfi_hausa",
+      "remoteIconUrl": "https://raw.githubusercontent.com/hausaliveradio/config/main/icons/rfi_hausa.png",
+      "isFeatured": true,
+      "streamUrl": "https://stream.radiofrance.fr/rfimonde/rfimonde_hifi.mp3",
+      "subStreams": []
+    },
+    {
+      "id": "bbc_world",
+      "name": "BBC World Service",
+      "frequencyOrLocation": "London, UK",
+      "categoryId": "INTERNATIONAL_ENGLISH",
+      "localIconResName": "ic_bbc_world",
+      "remoteIconUrl": null,
+      "isFeatured": false,
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "subStreams": []
+    },
+    {
+      "id": "freedom_radio_kano",
+      "name": "Freedom Radio 99.5 FM",
+      "frequencyOrLocation": "Kano, Nigeria",
+      "categoryId": "LOCAL_HAUSA",
+      "localIconResName": "ic_freedom_radio",
+      "remoteIconUrl": null,
+      "isFeatured": true,
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk//bbc_hausa_radio",
+      "subStreams": []
+    }
+  ]
+}
