@@ -15,7 +15,7 @@
       "frequencyOrLocation": "London / Global",
       "categoryId": "INTERNATIONAL_HAUSA",
       "localIconResName": "ic_bbc_hausa",
-      "remoteIconUrl": "https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp",
+      "remoteIconUrl": "https://githubusercontent.com",
       "isFeatured": true,
       "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
       "subStreams": [
@@ -69,7 +69,7 @@
       "frequencyOrLocation": "Bonn / Germany",
       "categoryId": "INTERNATIONAL_HAUSA",
       "localIconResName": "ic_dw_hausa",
-      "remoteIconUrl": "https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp",
+      "remoteIconUrl": "https://githubusercontent.com",
       "isFeatured": true,
       "streamUrl": "https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123123/master.m3u8",
       "subStreams": [
@@ -141,7 +141,7 @@
       "localIconResName": "ic_bbc_world",
       "remoteIconUrl": null,
       "isFeatured": false,
-      "streamUrl": "https://stream.live.vc.bbcmekkdia.co.uk/bbc_world_service",
+      "streamUrl": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
       "subStreams": []
     },
     {
@@ -230,160 +230,6 @@
       "remoteIconUrl": null,
       "isFeatured": false,
       "streamUrl": "https://stream.zeno.fm/c3g5p7a998quv",
-      "subStreams": []
-    },
-    {
-      "id": "rahma_radio",
-      "name": "Rahma Radio 97.3 FM",
-      "frequencyOrLocation": "Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_rahma_radio",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/4q5dsm9498quv",
-      "subStreams": []
-    },
-    {
-      "id": "express_radio",
-      "name": "Express Radio 90.3 FM",
-      "frequencyOrLocation": "Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_express_radio",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/2k1yq72698quv",
-      "subStreams": []
-    },
-    {
-      "id": "liberty_radio_kaduna",
-      "name": "Liberty Radio 103.3 FM",
-      "frequencyOrLocation": "Kaduna, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_liberty_radio",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/84e4z5a898quv",
-      "subStreams": []
-    },
-    {
-      "id": "vision_fm",
-      "name": "Vision FM 92.5 FM",
-      "frequencyOrLocation": "Abuja / Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_vision_fm",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/x5f71z1498quv",
-      "subStreams": []
-    },
-    {
-      "id": "wazobia_fm_kano",
-      "name": "Wazobia FM 95.1 FM",
-      "frequencyOrLocation": "Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_wazobia_fm",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/a9p4b7a198quv",
-      "subStreams": []
-    },
-    {
-      "id": "aminci_radio",
-      "name": "Aminci Radio 103.9 FM",
-      "frequencyOrLocation": "Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_aminci_radio",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/p2m7a81998quv",
-      "subStreams": []
-    },
-    {
-      "id": "premier_radio",
-      "name": "Premier Radio 102.7 FM",
-      "frequencyOrLocation": "Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_premier_radio",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/w4m8b19298quv",
-      "subStreams": []
-    },
-    {
-      "id": "hikima_radio",
-      "name": "Hikima Radio 93.7 FM",
-      "frequencyOrLocation": "Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_hikima_radio",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/r1u4m5a798quv",
-      "subStreams": []
-    },
-    {
-      "id": "guarantee_radio",
-      "name": "Guarantee Radio 94.7 FM",
-      "frequencyOrLocation": "Kano, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_guarantee_radio",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/k2u4m5s698quv",
-      "subStreams": []
-    },
-    {
-      "id": "karama_fm_sokoto",
-      "name": "Karama FM 92.1 FM",
-      "frequencyOrLocation": "Sokoto, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_karama_fm",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/m9u4m5s698quv",
-      "subStreams": []
-    },
-    {
-      "id": "supreme_fm_kaduna",
-      "name": "Supreme FM 96.1 FM",
-      "frequencyOrLocation": "Kaduna, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_supreme_fm",
-      "remoteIconUrl": null,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/p8u4m5s698quv",
-      "subStreams": []
-    },
-    {
-      "id": "rima_radio_sokoto",
-      "name": "Rima Radio Sokoto",
-      "frequencyOrLocation": "Sokoto, Nigeria",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_rima_radio",
-      "remoteIconUrl": https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/z9u4m5s698quv",
-      "subStreams": []
-    },
-    {
-      "id": "radio_niger_minna",
-      "name": "Radio Niger",
-      "frequencyOrLocation": "Minna, Niger State",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_radio_niger",
-      "remoteIconUrl": https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp,
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/x1u4m5s698quv",
-      "subStreams": []
-    },
-    {
-      "id": "radio_ger_minna",
-      "name": "Ibrahim fm",
-      "frequencyOrLocation": "Minna, Niger State",
-      "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_radio_niger",
-      "remoteIconUrl": "https://://githubusercontent.com/idupdatehelp-alt/hausa_radio_config/main/bbch.webp",
-      "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/x1u4m5s698quv",
       "subStreams": []
     }
   ]
