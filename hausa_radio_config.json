@@ -234,13 +234,13 @@
     },
     {
       "id": "ib_fm",
-      "name": "Ibrahim Fm",
+      "name": "Ibrahim FM",
       "frequencyOrLocation": "Kano, Nigeria",
       "categoryId": "LOCAL_HAUSA",
-      "localIconResName": "ic_dala_fm",
+      "localIconResName": "ic_ib_fm",
       "remoteIconUrl": null,
       "isFeatured": false,
-      "streamUrl": "https://stream.zeno.fm/c3g5p7a998quv",
+      "streamUrl": "https://zeno.fm",
       "subStreams": []
     }
   ]
